@@ -1,0 +1,27 @@
+# Core Dependencies
+networkx>=3.0
+numpy>=1.21.0
+scipy>=1.7.0
+transformers>=4.25.0
+torch>=1.13.0
+openai>=0.27.0
+tqdm>=4.64.0
+
+# Preprocessing and Parsing
+tokenize>=1.0.0
+regex>=2022.10.31
+javalang>=0.13.0  # For Java parsing (optional)
+astor>=0.8.1      # For Python AST manipulation (optional)
+
+# Data Handling
+pandas>=1.5.0
+scikit-learn>=1.0.0
+
+# Visualization (optional)
+matplotlib>=3.5.0
+graphviz>=0.20.0
+
+# Testing and Development
+pytest>=7.0.0
+black>=22.10.0
+flake8>=5.0.0
