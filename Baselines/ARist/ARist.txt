@@ -1,0 +1,1 @@
+the origanl implementation of ARist avalaiable at : https://github.com/ttrangnguyen/ARist/blob/gh-pages/README.md
